@@ -1,5 +1,12 @@
+import styles from './Catalogo.module.scss';
+
 export default function Catalogo () {
 return(
-    <div>oi</div>
+
+<nav className={styles.modelo}>
+	exemplo
+</nav>  
+
+
   );
 }
